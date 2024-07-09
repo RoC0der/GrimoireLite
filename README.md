@@ -1,3 +1,6 @@
+AQW Bot 
+
+
 How to Use:
 Do the steps below.
 
