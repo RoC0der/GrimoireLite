@@ -1,5 +1,8 @@
 AQW Bot 
 
+MAKE SURE YOU HAVE CLEANFLASH INSTALLED! 
+https://cdn.cleanflash.org/CleanFlash_34.0.0.317_Installer.exe
+
 
 How to Use:
 Do the steps below.
