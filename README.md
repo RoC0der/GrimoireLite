@@ -1,7 +1,7 @@
 How to Use:
 Do the steps below.
 
-(1) Download the GrimLite  (this repository)
+(1) Download the GrimLite  (this repository or go to Releases)
 
 (2) Extract the package (RAR file),
 
